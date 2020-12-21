@@ -482,11 +482,6 @@ mark,
   height: auto;
   
 }
-#img1{
-  max-width: none;
-  width: 290px;
-  height: 290px;
-}
 
 .img-thumbnail {
   padding: 0.25rem;
